@@ -28,5 +28,5 @@ Navigate to the project folder.
 
 Open Main.html in your web browser to view the bookstore.
 
-🤝 Contributing
+🤝 Contributing:
 This is a personal learning project. Feel free to fork this repository and add your own CSS or JavaScript to enhance the functionality!
