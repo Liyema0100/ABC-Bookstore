@@ -1,7 +1,7 @@
 # ABC-Bookstore
 A clean and organized landing page for a fictional bookstore project. This website focuses on a structured layout for displaying book products and e-commerce navigation.
 
-📖 Project Description
+📖 Project Description:
 The ABC Bookstore web page is designed to showcase a collection of books in a user-friendly format. It serves as a foundational project for building e-commerce layouts using HTML.
 
 ✨ Features
